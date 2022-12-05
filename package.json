@@ -1,0 +1,20 @@
+{
+  "name": "poke_damage_cal",
+  "version": "1.0.0",
+  "description": "pokemon damage, magic number etc...",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Horo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
